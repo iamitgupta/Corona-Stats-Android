@@ -1,0 +1,2 @@
+rootProject.name='CoronaApplication'
+include ':app'
